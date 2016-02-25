@@ -25,6 +25,10 @@ Recipes
 
 Installs [n98-magerun](https://github.com/netz98/n98-magerun)
 
+### magento-toolbox::n98-magerun2
+
+Installs [n98-magerun2](https://github.com/netz98/n98-magerun2)
+
 ### magento-toolbox::modman
 
 Installs [modman](https://github.com/colinmollenhour/modman)
