@@ -10,6 +10,9 @@
 default["n98-magerun"]["install_globally"] = true
 default["n98-magerun"]["prefix"] = "/usr/local"
 
+default["n98-magerun2"]["install_globally"] = true
+default["n98-magerun2"]["prefix"] = "/usr/local"
+
 default["modman"]["install_globally"] = true
 default["modman"]["prefix"] = "/usr/local"
 
